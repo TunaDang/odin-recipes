@@ -1,2 +1,2 @@
 # odin-recipes
-Things I have learned/to be demonstrated (to be filled)
+A bare-bone recipe page with two of my favorite dishes created using basic html features such as relative links, images, and lists.
